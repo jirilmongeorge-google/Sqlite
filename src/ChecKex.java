@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-
+//Comment
 public class ChecKex extends IOException{
 
 	
