@@ -1,9 +1,5 @@
 import java.io.IOException;
 
-// Add to Index
-// hello1
-//Hello 2
-
 public class ChecKex extends IOException{
 //my name conflict
 	public ChecKex() {
@@ -21,10 +17,5 @@ public class ChecKex extends IOException{
 	public void doSomething_other(){
 		System.out.println("hello world");
 	}
-
-	// Finally Local Changes can be made
-	
-	
-	// Checking Add to index
-	// hello My Computer
+	// Index 1
 }
