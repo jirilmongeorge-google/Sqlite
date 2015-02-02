@@ -8,7 +8,7 @@ public class ChecKex extends IOException{
 		super(); 
 	}
 	
-	
+	//Adding from Computer
 	public void doSomething(){
 		System.out.println("hello world");
 	}
