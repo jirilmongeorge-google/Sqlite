@@ -24,5 +24,5 @@ public class ChecKex extends IOException{
 	// Finally Local Changes can be made
 	
 	
-	// Doing Sync
+	// Checking Add to index
 }
