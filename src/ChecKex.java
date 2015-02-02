@@ -9,6 +9,8 @@ public class ChecKex extends IOException{
 	}
 	
 	// Adding the new method
+	
+	// I am doing it wrong
 	public void doSomething(){
 		System.out.println("hello world");
 	}
@@ -19,5 +21,6 @@ public class ChecKex extends IOException{
 	
 //All Conflict Changes
 	// Finally Local Changes can be made
-	// Hello Hello Hello
+	// Hello Hello Hello What can i do 
+	// My Computer Change
 }
