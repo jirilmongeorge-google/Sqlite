@@ -7,4 +7,9 @@ public class ChecKex extends IOException{
 	public ChecKex() {
 		super(); 
 	}
+	
+	
+	public void doSomething(){
+		System.out.println("hello world");
+	}
 }
