@@ -22,9 +22,5 @@ public class ChecKex extends IOException{
 		System.out.println("hello world");
 	}
 
-	// Finally Local Changes can be made
-	
-	
-	// Checking Add to index
-	// hello My Computer
+
 }
