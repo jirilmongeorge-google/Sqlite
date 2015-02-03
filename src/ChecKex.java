@@ -5,7 +5,7 @@ public class ChecKex extends IOException{
 	public ChecKex() {
 		super(); 
 	}
-
+// Creating some Comment
 	public void doSomething(){
 		System.out.println("hello world");
 	}
@@ -13,6 +13,6 @@ public class ChecKex extends IOException{
 	public void doSomething_other(){
 		System.out.println("hello world");
 	}
-	// Index 1
-	// Index 2
+	
+	// The Master of the 
 }
