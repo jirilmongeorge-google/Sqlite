@@ -9,4 +9,6 @@ public class ChecKex extends IOException{
 	public void doSomething(){
 		System.out.println("hello world");
 	}
+	//final we ll dee
+	// and wat can i do
 }
