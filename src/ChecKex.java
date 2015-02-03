@@ -22,4 +22,5 @@ public class ChecKex extends IOException{
 	public void doSomething_other2(){
 		System.out.println("hello world");
 	}
+	// see something my changes to be confirmed
 }
