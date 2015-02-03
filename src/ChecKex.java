@@ -14,5 +14,8 @@ public class ChecKex extends IOException{
 		System.out.println("hello world");
 	}
 	
-	// The Master of the 
+	public void doSomething_other1(){
+		System.out.println("hello world");
+	}
+	//Test test
 }
