@@ -17,5 +17,7 @@ public class ChecKex extends IOException{
 	public void doSomething_other1(){
 		System.out.println("hello world");
 	}
-	//Test test from  web Desktop
+	public void doSomething_other2(){
+		System.out.println("hello world");
+	}
 }
