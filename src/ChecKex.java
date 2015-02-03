@@ -10,9 +10,5 @@ public class ChecKex extends IOException{
 		System.out.println("hello world");
 	}
 	//final we ll dee
-	//final conflict
-	// last and final
-	//last check
-	//Asim
-	//George
+
 }
