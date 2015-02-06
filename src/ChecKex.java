@@ -9,5 +9,5 @@ public class ChecKex extends IOException{
 	public void doSomething(){
 		System.out.println("hello world");
 	}
-	
+	//Something
 }
