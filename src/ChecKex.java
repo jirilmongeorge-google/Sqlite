@@ -9,7 +9,5 @@ public class ChecKex extends IOException{
 	public void doSomething(){
 		System.out.println("hello world");
 	}
-	//final we ll dee
-	// i am the conflict
-	//Local conflict
+	
 }
